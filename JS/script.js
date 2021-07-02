@@ -16,4 +16,4 @@ function func(arr){
             return positiveNumberArr;
         }
 }
-alert(func());
+alert(func(arr));
